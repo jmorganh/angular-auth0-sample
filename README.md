@@ -1,8 +1,13 @@
-# 00 - Starter Seed
+#Below is the original Readme file 
+
+I have made my own changes and additions
+_________________________________________________________________________________________________
+
+## 00 - Starter Seed
 
 This seed project shows an example of adding authentication to an Angular 1.x app with Auth0. It uses Lock v10 and angular-lock.
 
-## Installation
+### Installation
 
 ```bash
 bower install
