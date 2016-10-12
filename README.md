@@ -1,6 +1,6 @@
 #Below is the original Readme file 
 
-I have made my own changes and additions
+I have made my own changes and additions to this sample app
 _________________________________________________________________________________________________
 
 ## 00 - Starter Seed
@@ -36,7 +36,7 @@ npm install -g http-server
 http-server
 ```
 
-## What is Auth0?
+### What is Auth0?
 
 Auth0 helps you to:
 
@@ -47,16 +47,16 @@ Auth0 helps you to:
 * Analytics of how, when and where users are logging in.
 * Pull data from other sources and add it to the user profile, through [JavaScript rules](https://docs.auth0.com/rules).
 
-## Create a free account in Auth0
+### Create a free account in Auth0
 
 1. Go to [Auth0](https://auth0.com) and click Sign Up.
 2. Use Google, GitHub or Microsoft Account to login.
 
-## Issue Reporting
+### Issue Reporting
 
 If you have found a bug or if you have a feature request, please report them at this repository issues section. Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
 
-## Author
+### Author
 
 [Auth0](auth0.com)
 
